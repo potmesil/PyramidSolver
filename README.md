@@ -24,3 +24,7 @@ Therefore addressing looks like this [row][column].
          [01,00] [01,01] [01,02]
              [02,00] [02,01]
                  [03,00]
+
+## Example
+
+![PyramidSolver](https://github.com/potmesil/PyramidSolver/assets/5638033/17f2aa9e-89b3-4fa7-afb6-adcf7420354b)
