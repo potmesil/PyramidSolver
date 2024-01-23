@@ -1,6 +1,6 @@
-﻿using Pyramid.Models;
+﻿using PyramidSolver.Models;
 
-namespace Pyramid.Interfaces
+namespace PyramidSolver.Interfaces
 {
 	public interface IPyramidGenerator
 	{

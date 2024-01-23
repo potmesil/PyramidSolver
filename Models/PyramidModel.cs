@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Pyramid.Models
+namespace PyramidSolver.Models
 {
 	public class PyramidModel
 	{

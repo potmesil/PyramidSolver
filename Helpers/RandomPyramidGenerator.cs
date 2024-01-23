@@ -1,8 +1,8 @@
-﻿using Pyramid.Interfaces;
-using Pyramid.Models;
+﻿using PyramidSolver.Interfaces;
+using PyramidSolver.Models;
 using System;
 
-namespace Pyramid.Helpers
+namespace PyramidSolver.Helpers
 {
 	public class RandomPyramidGenerator : IPyramidGenerator
     {

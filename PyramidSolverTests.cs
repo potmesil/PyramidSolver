@@ -1,10 +1,10 @@
 ﻿using NUnit.Framework;
-using Pyramid.Interfaces;
-using Pyramid.Models;
+using PyramidSolver.Interfaces;
+using PyramidSolver.Models;
 using System;
 using System.Collections.Generic;
 
-namespace Pyramid
+namespace PyramidSolver
 {
 	[TestFixture]
     public class PyramidSolverTests

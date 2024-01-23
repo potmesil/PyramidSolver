@@ -1,9 +1,9 @@
-﻿using Pyramid.Helpers;
-using Pyramid.Interfaces;
-using Pyramid.Models;
+﻿using PyramidSolver.Helpers;
+using PyramidSolver.Interfaces;
+using PyramidSolver.Models;
 using System;
 
-namespace Pyramid
+namespace PyramidSolver
 {
 	internal class Program
 	{
