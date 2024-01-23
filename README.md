@@ -1,5 +1,5 @@
 # PyramidSolver
-Solution to get maximum path sum for pyramid data structure.
+Solution to get maximum path sum for random pyramid data structure.
 
 Pyramid type is a data structure for representation of inverted pyramids like this.
 
